@@ -1,0 +1,12 @@
+=pod
+
+=head1 Asciian
+
+The open-source asciiart of alphabets.
+
+=head2 License
+
+(c) 2023 TANIGUCHI Masaya
+This font is licensed under the CC-BY 4.0 License.
+
+=cut
